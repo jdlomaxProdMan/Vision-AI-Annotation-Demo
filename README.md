@@ -7,3 +7,4 @@ Users are presented with photographs of cars from four major brands (Toyota, Che
 
 The application also includes a simple built-in prediction engine that attempts to guess where the logo is on new images, based on the boxes already drawn. This prediction feature is not real AI — it is a lightweight illustration designed to make the concept of machine learning from annotations tangible and concrete for audiences at any level of technical experience.
 
+There are references to 'Almond Interactive' in the documentation.  That is the name of my consulting company.
