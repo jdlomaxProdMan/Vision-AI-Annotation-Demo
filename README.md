@@ -1,5 +1,7 @@
 ## Overview
-The Car Brand Logo Annotation Tool is an interactive web application built to demonstrate the annotation process — the foundational step in training a supervised vision AI system. 
+The Car Brand Logo Annotation Tool is an interactive web application built to demonstrate the annotation process — the foundational step in training a supervised vision AI system.
+
+Created in Claude Cowork.
 
 Users are presented with photographs of cars from four major brands (Toyota, Chevrolet, Mercedes-Benz, and BMW) and are asked to draw a bounding box around the manufacturer logo visible in each image, and identify the car make / manufacturer.
 
